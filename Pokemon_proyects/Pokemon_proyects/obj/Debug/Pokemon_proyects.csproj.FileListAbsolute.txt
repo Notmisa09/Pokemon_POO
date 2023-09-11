@@ -1,0 +1,8 @@
+C:\CODE\Pokemon_proyects\Pokemon_proyects\bin\Debug\Pokemon_proyects.exe.config
+C:\CODE\Pokemon_proyects\Pokemon_proyects\bin\Debug\Pokemon_proyects.exe
+C:\CODE\Pokemon_proyects\Pokemon_proyects\bin\Debug\Pokemon_proyects.pdb
+C:\CODE\Pokemon_proyects\Pokemon_proyects\obj\Debug\Pokemon_proyects.csproj.AssemblyReference.cache
+C:\CODE\Pokemon_proyects\Pokemon_proyects\obj\Debug\Pokemon_proyects.csproj.SuggestedBindingRedirects.cache
+C:\CODE\Pokemon_proyects\Pokemon_proyects\obj\Debug\Pokemon_proyects.csproj.CoreCompileInputs.cache
+C:\CODE\Pokemon_proyects\Pokemon_proyects\obj\Debug\Pokemon_proyects.exe
+C:\CODE\Pokemon_proyects\Pokemon_proyects\obj\Debug\Pokemon_proyects.pdb
